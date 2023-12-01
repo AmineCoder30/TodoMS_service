@@ -11,7 +11,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "amine mohamed & salma Abzou",
+  "author": "amine mohamed",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.1",
